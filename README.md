@@ -1,4 +1,4 @@
-# BooteCamp DIO - Java Cloud Native - Bradesco
+# BootCamp DIO - Java Cloud Native - Bradesco
 # Criando Máquinas Virtuais na Azure
 
 # SLA e Tempo de Inatividade no Azure
